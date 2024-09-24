@@ -1,6 +1,3 @@
-Parece que houve uma confusão com o escopo do projeto. Vou ajustar o README com base no código que você compartilhou, focando nas funcionalidades de gerenciamento de usuários, pedidos, pagamentos, produtos, etc. Aqui está a versão correta:
-
----
 
 # Projeto de Gerenciamento de Usuários e Pedidos
 
